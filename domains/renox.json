@@ -1,1 +1,9 @@
-
+{
+    "owner": {
+        "username": "Deziy"
+    },
+    "record": {
+        "A": ["76.76.21.21"],
+        "TXT": ["vc-domain-verify=renox.is-a.dev,99b60f058fabd84c4125"]
+    }
+}
